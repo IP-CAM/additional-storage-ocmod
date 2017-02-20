@@ -1,0 +1,1 @@
+ALTER TABLE `ksnet_product` ADD `quantity2` INT(4) NOT NULL DEFAULT '0' COMMENT 'second store quantity' AFTER `quantity`;
