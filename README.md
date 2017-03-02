@@ -1,4 +1,4 @@
-# additional-storage-ocmod
+# additional-storage-ocmod [![GitHub version](https://badge.fury.io/gh/dtaipov%2Fadditional-storage-ocmod.svg)](https://badge.fury.io/gh/dtaipov%2Fadditional-storage-ocmod)
 Позволяет вводить количество товара на втором складе в администраторской части и видеть это количество на странице карточки товара и на странице Закладки.
 
 Изменения в Администраторской части:  
