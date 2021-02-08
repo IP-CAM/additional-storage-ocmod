@@ -1,29 +1,29 @@
-# additional-storage-ocmod [![GitHub version](https://badge.fury.io/gh/dtaipov%2Fadditional-storage-ocmod.svg)](https://badge.fury.io/gh/dtaipov%2Fadditional-storage-ocmod)
-Позволяет вводить количество товара на втором складе в администраторской части и видеть это количество на странице карточки товара и на странице Закладки.
+# additional-storage-ocmod [! [GitHub version] (https://badge.fury.io/gh/dtaipov%2Fadditional-storage-ocmod.svg)] (https://badge.fury.io/gh/dtaipov % 2Fadditional-storage-ocmod)
+Allows you to enter the quantity of goods in the second warehouse in the admin area and see this quantity on the product card page and on the Bookmarks page.
 
-Изменения в Администраторской части:  
-Форма редактирования товара. Закладка Данные  
-Новое поле "Количество Склад2" под полем "Количество"  
+Changes in the admin area:
+Product editing form. Data tab
+New field "Quantity Warehouse2" under the field "Quantity"
 
-Изменения в интерфейсе пользователя:  
-1) Карточка товара. Теперь тут два количества - "Наличие НГР" и "Наличие ДРЖ"  
-2) Закладки. Новое поле "Наличие Дирижабельная" в таблице.  
+User interface changes:
+1) Product card. Now there are two quantities - "The presence of UGR" and "The presence of DRG"
+2) Bookmarks. New field "Availability Airship" in the table.
 
-Установка.
-Меню "Установка расширений", загрузить файл additional-storage-ocmod.ocmod.zip  
-Меню "Модификаторы" - список установленных расширений  
-Нажать кнопку "Обновить" в верхнем правом углу  
+Installation.
+"Install extensions" menu, load additional-storage-ocmod.ocmod.zip file
+Modifiers menu - list of installed extensions
+Click the "Update" button in the upper right corner
 
-Удаление.
-Меню "Модификаторы" - выделить расширение "Additional storage", нажать кнопку Удалить в верхнем правом углу, нажать кнопку "Обновить" в верхнем правом углу.  
+Removal.
+Menu "Modifiers" - select the "Additional storage" extension, click the Delete button in the upper right corner, click the Update button in the upper right corner.
 
-Известные недоработки:  
-1) При заказе товара проверяется наличие только на первом складе.  
-Вычитание со склада происходит только на первом складе.  
-2) Надпись в случае отсутствия товара на втором складе фиксирована и равна "В наличии".  
-Тогда как эту надпись можно менять при редактировании товара для первого склада (поле "Отсутствие на складе").  
+Known issues:
+1) When ordering goods, only the first warehouse is checked.
+The deduction from the warehouse only occurs in the first warehouse.
+2) The inscription in the absence of goods in the second warehouse is fixed and equals "In stock".
+Whereas this inscription can be changed when editing an item for the first warehouse (the "Out of stock" field).
 
 ### Get Started
 
-  * [Read the documentation](https://github.com/dtaipov/additional-storage-ocmod/wiki).
+  * [Read the documentation] (https://github.com/dtaipov/additional-storage-ocmod/wiki). 
   
