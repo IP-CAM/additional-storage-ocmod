@@ -1,4 +1,4 @@
-# additional-storage-ocmod [! [GitHub version] (2Fadditional-storage-ocmod)
+# additional-storage-ocmod 
 Allows you to enter the quantity of goods in the second warehouse in the admin area and see this quantity on the product card page and on the Bookmarks page.
 
 Changes in the admin area:
